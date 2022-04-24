@@ -1,2 +1,4 @@
 # CS210
 CS-210 Programming Languages Course Repository
+
+This project's purpose was to create code that had a functional clock that would read the system time and give the user the option to to add time (minutes, hours, or seconds) to their current time. It also showed the converted time to 24-hour military time interval. I think that I excelled in coming up with a basic structure of how I wanted the program to be programmed. When I wrote the code, it came out the way I envisioned which provided clear and concise code. I made this code easy to maintain and read with my use of whitespace and comments. On this project, I struggled mostly with grabbing the system time from the particular user. I had issues with the IDE not wanting to perform the task due to potential memory leaks. I had to research and find a way to do that while maintaining structure and efficiency with the code.
